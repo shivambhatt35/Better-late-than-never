@@ -1,0 +1,8 @@
+- **olist_orders_dataset** — Core order records with order ID, customer ID, status, and timestamps.
+- **olist_order_payments_dataset** — Payment details per order (method, installments, value).
+- **olist_order_reviews_dataset** — Customer review scores and comments tied to each order.
+- **olist_order_items_dataset** — Line-item level detail linking each order to the products and sellers involved, with price.
+- **olist_products_dataset** — Product catalog with category, dimensions, and weight.
+- **olist_sellers_dataset** — Seller registry with location (zip code, city, state).
+- **olist_order_customer_dataset** — Customer registry with location (zip code, city, state).
+- **olist_geolocation_dataset** — Zip-code-level lat/long coordinates used to map sellers and customers geographically.
