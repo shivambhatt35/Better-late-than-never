@@ -1,6 +1,6 @@
 # Better On Time Than Late: E-Commerce Delivery Delay Analysis & Prediction
 
-> Understanding the impact of delivery delays on customer satisfaction and retention — and predicting them before they happen.
+> Understanding the impact of delivery delays on customer satisfaction and retention and predicting them before they happen.
 
 ---
 
@@ -163,7 +163,6 @@ A dashboard was built to demo the delay-risk model and surface delivery performa
 ## Project Links
 
 1. **Databricks Notebook:** [View Notebook](https://dbc-9be97a69-c520.cloud.databricks.com/editor/notebooks/530294719074615?o=7474652451077049#command/8078495091479907)
-2. **GitHub Repository:** _add link here_
 
 ## Repository Structure
 
