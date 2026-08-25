@@ -173,10 +173,7 @@ A dashboard was built to demo the delay-risk model and surface delivery performa
 .
 ├── data/                   # Raw and processed datasets (or data-loading scripts)
 ├── notebooks/              # EDA, statistical tests, and modeling notebooks
-├── src/
-│   ├── preprocessing.py    # Cleaning & feature engineering pipeline
-│   ├── modeling.py         # Model training & evaluation
-│   └── dashboard/          # Dashboard app code
+├── dashboard
 ├── reports/                # Slides, writeups, figures
 ├── requirements.txt
 └── README.md
